@@ -40,5 +40,5 @@
 <a href="" target="_blank"> <img src="https://raw.githubusercontent.com/mevluttuna/mevluttuna/main/icons/xcode.png" alt="xcode" height="96px"/> </a>
 
 <br>
-[![Hasan Korkmaz GitHub stats](https://github-readme-stats.vercel.app/api?username=hasan-korkmaz)]
+[![Hasan Korkmaz GitHub stats](https://github-readme-stats.vercel.app/api?username=hasan-korkmaz)
 ![Hasan Korkmaz GitHub stats](https://github-readme-stats.vercel.app/api?username=hasan-korkmaz&show_icons=true&theme=gradient&count_private=true)
