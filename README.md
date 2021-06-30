@@ -43,6 +43,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-korkmaz&langs_count=8&layout=compact&count_private=true&card_width=445)](https://github.com/hasan-korkmaz/github-readme-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hasan-korkmaz&theme=dark&stroke=DD2727)](https://git.io/streak-stats)
+
 <br>
 
 ![Hasan Korkmaz GitHub stats](https://github-readme-stats.vercel.app/api?username=hasan-korkmaz&show_icons=true&theme=gradient&count_private=true)
