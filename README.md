@@ -47,4 +47,4 @@
 
 <br>
 
-![Hasan Korkmaz GitHub stats](https://github-readme-stats.vercel.app/api?username=hasan-korkmaz&show_icons=true&theme=gradient&count_private=true)
+[![Hasan Korkmaz GitHub stats](https://github-readme-stats.vercel.app/api?username=hasan-korkmaz)](https://github.com/anuraghazra/github-readme-stats)
