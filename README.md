@@ -41,7 +41,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-korkmaz&langs_count=8&layout=compact&count_private=true&card_width=445)](https://github.com/mevluttuna/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasan-korkmaz&langs_count=8&layout=compact&count_private=true&card_width=445)](https://github.com/hasan-korkmaz/github-readme-stats)
 
 <br>
 
